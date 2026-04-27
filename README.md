@@ -23,7 +23,7 @@ numpy
 matplotlib
 ```
 
-The dataset requires two CSV files in the working directory (these can also be found in the ml-latest-small folder in this repository:
+The dataset requires two CSV files in the working directory (these can be found in the ml-latest-small folder in this repository:
 - `ratings.csv` — columns: `userId`, `movieId`, `rating`, `timestamp`
 - `movies.csv` — columns: `movieId`, `title`, `genres`
 
